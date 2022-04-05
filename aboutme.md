@@ -1,16 +1,21 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: O mnie
+subtitle: Dlaczego miałbyś nawiązać ze mną kontakt?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Nazywam się Marta Ostrowska. Mam nastepujące umiejętności:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Uwielbiam kontakt z naturą
+- Jedną z moich pasji jest komponowanie zapachów naturalnych świec sojowych
+- W wolnym czasie maluje akwarelami
+- Tworzę z włóczki naturalne zabawki dla dzieci, warzywa montessori
 
-What else do you need?
+Poza tym
 
-### My story
+- Uwielbiam kreowac
+- Emanuje pozytywną energią
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Kontakt
+
+Aby nawiązać ze mną kontakt, skorzystaj z linków znajdujących w stopce strony. Najłatwiej dotrzeć do mnie przez [email](mailto:kontakt@nelma.pl) lub [instagram](@nelmastories)
