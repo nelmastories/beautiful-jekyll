@@ -18,4 +18,4 @@ Poza tym
 
 ### Kontakt
 
-Aby nawiązać ze mną kontakt, skorzystaj z linków znajdujących w stopce strony. Najłatwiej dotrzeć do mnie przez [email](mailto:kontakt@nelma.pl) lub [instagram](@nelmastories)
+Do Twojej dyspozycji, są linki znajdujące w stopce strony. Najłatwiej dotrzeć do mnie poprzez [email](mailto:kontakt@nelma.pl) lub [instagram](@nelmastories)
