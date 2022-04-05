@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O mnie
-subtitle: Dlaczego miałbyś nawiązać ze mną kontakt?
+subtitle: Garść informacji o mnie
 ---
 
 Nazywam się Marta Ostrowska. Mam nastepujące umiejętności:
