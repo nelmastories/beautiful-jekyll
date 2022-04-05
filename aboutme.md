@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O mnie
-subtitle: Garść informacji o mnie
+subtitle: W telegraficznym skrócie
 ---
 
 Nazywam się Marta Ostrowska. Mam nastepujące umiejętności:
@@ -18,4 +18,4 @@ Poza tym
 
 ### Kontakt
 
-Do Twojej dyspozycji, są linki znajdujące w stopce strony. Najłatwiej dotrzeć do mnie poprzez [email](mailto:kontakt@nelma.pl) lub [instagram](@nelmastories)
+Do Twojej dyspozycji, są linki znajdujące w stopce strony. Najłatwiej dotrzeć do mnie poprzez [email](mailto:kontakt@nelma.pl) lub [instagram](https://www.instagram.com/nelmastories/)
