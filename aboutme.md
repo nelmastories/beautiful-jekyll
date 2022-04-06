@@ -4,9 +4,9 @@ title: O mnie
 subtitle: W telegraficznym skrócie
 ---
 
-Nazywam się Marta Ostrowska. Mam nastepujące umiejętności:
+Nazywam się Marta Ostrowska.
 
-- Uwielbiam kontakt z naturą
+- Przepadam za kontaktem z naturą
 - Jedną z moich pasji jest komponowanie zapachów naturalnych świec sojowych
 - W wolnym czasie maluje akwarelami
 - Tworzę z włóczki naturalne zabawki dla dzieci, warzywa montessori
